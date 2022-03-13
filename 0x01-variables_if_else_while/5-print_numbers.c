@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *main - entry point
- *Description: prints all number in base 10 
+ *Description: prints all number in base 10
  *Return: Always 0
  **/
 int main(void)
