@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "main.h"
-#include <unistd.h>
 /**
  *writechar - entry point
  *Description: Prints _putchar to the terminal
