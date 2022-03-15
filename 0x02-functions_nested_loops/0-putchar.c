@@ -5,8 +5,9 @@
  *Description: Prints _putchar to the terminal
  *Return: Alwasy 0
  */
-void writechar()
+int writechar()
 {
 printf("_putchar\n");
+return (0);
 }
 
