@@ -5,7 +5,7 @@
  *Description: print alphabet in lowercase x10
  *Return: Always 0
  */
-int print_alphabet(void)
+int print_alphabet_x10(void)
 {
 int c, a;
 for (c = 0; c <= 10; c++)
