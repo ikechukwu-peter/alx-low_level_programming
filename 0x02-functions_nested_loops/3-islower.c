@@ -15,7 +15,7 @@ for (a = 'a'; a <= 'z'; a++)
 if (c == a)
 {
 return (1);
-};
+}
 else
 {
 return (0);
