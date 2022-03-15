@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <main.h>
 /**
  *main - entry point
  *Description: Prints _putchar to the terminal
