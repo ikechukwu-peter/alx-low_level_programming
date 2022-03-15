@@ -12,7 +12,7 @@ for (i = 9; i < 13; i++)
 {
 for (j = 0; j < 13; j++)
 {
-_putchar(i * j)
+_putchar(i * j);
 }
 }
 }
