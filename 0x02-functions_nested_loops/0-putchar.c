@@ -3,11 +3,10 @@
 #include <unistd.h>
 /**
  *writechar - entry point
- *@char: character
  *Description: Prints _putchar to the terminal
  *Return: Alwasy 0
  */
-int writechar(char)
+int writechar(void)
 {
 _putchar('-');
 _putchar('p');
