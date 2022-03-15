@@ -4,5 +4,5 @@
  *Description: display alphabet in lowercase
  *Return: Always 0
  */
-int print_sign(int c);
+int print_last_digit(int c);
 int _putchar(int c);
