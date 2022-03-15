@@ -3,6 +3,7 @@
 #include <unistd.h>
 /**
  *writechar - entry point
+ *@char: character
  *Description: Prints _putchar to the terminal
  *Return: Alwasy 0
  */
